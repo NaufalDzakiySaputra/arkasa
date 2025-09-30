@@ -70,7 +70,7 @@
         </table>
           <!-- TOMBOL TRAKTEER ES KOPI TANPA GULA -->
            <div class="c-traktir">
-              <a href="traktir.html">traktir es kopi</a>
+              <a href="traktir.html">traktir es kopi tanpa gula</a>
            </div>
         </body>
           <!-- Bagian bawah -->

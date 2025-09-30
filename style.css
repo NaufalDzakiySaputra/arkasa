@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;          
+    display: flex;              
+    flex-direction: column;     
+}
+
+footer {
+    margin-top: auto;          
+}
+
+.c-ulatas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#858d8f ;
+    font-size: small;
+    padding: 5px;
+    color: aliceblue;
+    flex-direction: column;
+}
+
+.c-isi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    flex-direction: column;
+    font-size: 15px;
+}
+
+.c-img{
+    width: 170px;
+    height: 160px;
+    border-radius: 50px;
+    
+}  
+
+.c-konten{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-direction: column;
+    
+}
+.c-fotoso{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.5s ease;
+}
+
+.c-fotoso :hover{
+    transform: scale(1.2);
+}
+
+.c-sosmed{
+    display: flex;
+    width: 80px;
+    height: 80px;
+}
+
+.c-tabel{
+    border-collapse: collapse;
+    margin-top: 20px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.c-tabel th,
+.c-tabel td{
+    border:1px solid black;
+    padding: 8px 12px;
+    text-align: left;
+}
+
+.c-footer {
+    background-color:#858d8f;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}

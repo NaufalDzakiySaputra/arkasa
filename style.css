@@ -85,8 +85,6 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 80px;
-    height: 80px;
 }
 
 .c-footer {

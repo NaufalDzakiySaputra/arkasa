@@ -39,6 +39,9 @@
             <a href="https://www.linkedin.com/in/naufal-dzakiy-838845327/">
             <img src="gambar/pngwing.com.png" class="c-sosmed">
             </a>
+            <a href="https://github.com/NaufalDzakiySaputra">
+              <img src="gambar/github.png" class="c-sosmed">
+            </a>
             </div>
         </div>
 

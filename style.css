@@ -81,6 +81,14 @@ footer {
     text-align: left;
 }
 
+.c-traktir{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+}
+
 .c-footer {
     background-color:#858d8f;
     color: aliceblue;
@@ -88,4 +96,19 @@ footer {
     justify-content: center;
     align-items: center;
     padding: 5px;
+}
+
+.c-dana{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 110px;
+}
+
+.c-gopay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 700px;
 }

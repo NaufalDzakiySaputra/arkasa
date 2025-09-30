@@ -68,6 +68,10 @@
             <td><?php echo $fakultas?></td>
            </tr>
         </table>
+          <!-- TOMBOL TRAKTEER ES KOPI TANPA GULA -->
+           <div class="c-traktir">
+              <a href="traktir.html">traktir es kopi</a>
+           </div>
         </body>
           <!-- Bagian bawah -->
         <footer>

@@ -16,7 +16,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:#f80303 ;
+    background-color:#28d0fa;
     font-size: small;
     padding: 5px;
     color: aliceblue;
@@ -89,7 +89,7 @@ footer {
 }
 
 .c-footer {
-    background-color:#f80303;
+    background-color:#28d0fa;
     color: aliceblue;
     display: flex;
     justify-content: center;
